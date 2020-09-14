@@ -1,8 +1,10 @@
 # Data Cleansing
 
-This project aims to explore and understand the data first before fixing the anomalies within it. The dataset used for this is a food delivery data of a restaurant in Melbourne, Australia.
+This project aims to explore and understand the data to identify potential anamolies. After which, the anamolies are resolved using suitable imputation methods. 
 
-The datasets:
+<b>Datasets:</b>
+
+Food delivery data of a restaurant in Melbourne, Australia.
 
 <ul>
   <li> <b>dirty_data.csv</b> : carries rows with at most one anomaly in it.</li>
